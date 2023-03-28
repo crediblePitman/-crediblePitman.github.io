@@ -27,12 +27,12 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.2432572"
-     inkscape:cx="353.90907"
-     inkscape:cy="76.010015"
-     inkscape:window-width="1796"
-     inkscape:window-height="882"
-     inkscape:window-x="524"
-     inkscape:window-y="280"
+     inkscape:cx="404.58241"
+     inkscape:cy="365.97415"
+     inkscape:window-width="2177"
+     inkscape:window-height="1177"
+     inkscape:window-x="247"
+     inkscape:window-y="156"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -148,13 +148,45 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0.15000001,0.15000001)">
+    <g
+       id="g5808">
+      <rect
+         style="opacity:0.998;fill:url(#linearGradient7112);fill-opacity:1;stroke:#ffffff;stroke-width:0.299103;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="Ground1"
+         width="99.700897"
+         height="99.700897"
+         x="-0.00044865895"
+         y="-0.00044865895"
+         ry="0.40379286"
+         inkscape:label="Ground1" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:'NSimSun, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="16.564556"
+         y="29.936609"
+         id="Beet1"><tspan
+           sodipodi:role="line"
+           id="tspan11765"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+           x="16.564556"
+           y="29.936609">Beet 1</tspan></text>
+      <rect
+         style="opacity:0.998;fill:#8b8b8b;fill-opacity:1;stroke:#000000;stroke-width:0.5349;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect11871"
+         width="26.116722"
+         height="4.4048557"
+         x="10.302161"
+         y="81.131615"
+         ry="0"
+         transform="rotate(-35)" />
+    </g>
     <rect
-       style="opacity:0.998;fill:url(#linearGradient7112);fill-opacity:1;stroke:#ffffff;stroke-width:0.299103;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.998;fill:#eeeeee;fill-opacity:0.01419878;stroke:none;stroke-width:0.299103;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="Zone1"
        width="99.700897"
        height="99.700897"
-       x="-0.00044865895"
-       y="-0.00044865895"
+       x="-0.0004485141"
+       y="-0.0004485141"
        ry="0.40379286" />
     <rect
        style="opacity:0.998;fill:url(#linearGradient7250);fill-opacity:1;stroke:#ffffff;stroke-width:0.302094;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -193,17 +225,6 @@
        ry="9.7920771" />
     <text
        xml:space="preserve"
-       style="font-size:14.1111px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:'NSimSun, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
-       x="16.564556"
-       y="29.936609"
-       id="Beet1"><tspan
-         sodipodi:role="line"
-         id="tspan11765"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
-         x="16.564556"
-         y="29.936609">Beet 1</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:14.1111px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:'NSimSun, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="16.794891"
        y="150.25006"
@@ -235,15 +256,6 @@
          x="138.82631"
          y="30.495853"
          id="tspan12819">Beet 2</tspan></text>
-    <rect
-       style="opacity:0.998;fill:#8b8b8b;fill-opacity:1;stroke:#000000;stroke-width:0.5349;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect11871"
-       width="26.116722"
-       height="4.4048557"
-       x="10.302161"
-       y="81.131615"
-       ry="0"
-       transform="rotate(-35)" />
     <path
        id="Zone5"
        style="display:inline;opacity:0.998;fill:#06811a;fill-opacity:0.396825;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
